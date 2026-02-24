@@ -17,7 +17,7 @@ To use this project, follow these steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/ai-powered-epigraphy.git
+    git clone https://github.com/dhanyashreem2400/ai-powered-epigraphy.git
     cd ai-powered-epigraphy
     ```
 
